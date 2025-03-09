@@ -24,7 +24,6 @@ USER-AGENT,FMDClient*
 USER-AGENT,FMFD*
 USER-AGENT,FindMyFriends*
 USER-AGENT,FindMyiPhone*
-USER-AGENT,Maps*
 USER-AGENT,Wallet*
 USER-AGENT,com.apple.Maps
 USER-AGENT,com.apple.appstored*
