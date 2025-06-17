@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleapis.com
 
-DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,bing.com
-
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
